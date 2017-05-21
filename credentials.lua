@@ -1,6 +1,6 @@
 -- WIFI
-SSID = "Solomaha"
-PASSWORD = "solomakha21"
+SSID = ""
+PASSWORD = ""
 
 -- Panel WSS URL
 WSURL = 'ws://176.36.54.229:8083/?type=board'
